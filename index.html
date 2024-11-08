@@ -17,12 +17,14 @@
       <div class="container">
         <div class="transform__wrapper">
           <div class="transform__item__wrapper">
-            <p class="transform__item__title" id="">Enter the grades</p>
+            <p class="transform__item__title" id="">Enter notes</p>
             <input
               type="text"
               id="qualifications"
               class="transform__input"
+              pattern="^[0-9.,]+$" 
               placeholder="Example: 4,7,3"
+              title="Enter only numbers"
             />
           </div>
           <div class="transform__item__wrapper">
