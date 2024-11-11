@@ -30,9 +30,8 @@ El archivo calculadora.js contiene una función principal calculateAverage() que
 ## 💻 ¿Quieres comprobar esta función? 
 
 - [Visita el Conversor de Temperatura](https://abrahamgalvezv.github.io/Calculate_Average/)
-
-
-- Clona este repositorio en tu equipo y comprueba cómo está creado o implementalo en tu proyecto
+- Clona este repositorio en tu equipo y comprueba cómo está creado
+- Implementa esta función en tu proyecto 
 
 ## 📭 Contacto 
 
